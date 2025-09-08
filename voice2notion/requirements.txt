@@ -1,0 +1,5 @@
+sounddevice
+scipy
+openai
+python-dotenv
+notion-client
